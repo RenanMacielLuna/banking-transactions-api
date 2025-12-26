@@ -10,5 +10,5 @@ test the API:
 http://localhost:8080/swagger-ui/index.html
 ```
 
-Before you test the API. Go to ```applivation.properties``` file to see the H2 login credentials, in case you would like
+Before you test the API. Go to ```application.properties``` file to see the H2 login credentials, in case you would like
 to perform queries in the DB.
